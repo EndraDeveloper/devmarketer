@@ -1,0 +1,81 @@
+{"products":[{
+  "id": 1,
+  "name": "Dog, black-tailed prairie",
+  "catogory": "Puce"
+}, {
+  "id": 2,
+  "name": "Mexican boa",
+  "catogory": "Mauv"
+}, {
+  "id": 3,
+  "name": "Squirrel, nelson ground",
+  "catogory": "Crimson"
+}, {
+  "id": 4,
+  "name": "Tailless tenrec",
+  "catogory": "Red"
+}, {
+  "id": 5,
+  "name": "Common genet",
+  "catogory": "Green"
+}, {
+  "id": 6,
+  "name": "Crake, african black",
+  "catogory": "Purple"
+}, {
+  "id": 7,
+  "name": "Antelope, four-horned",
+  "catogory": "Pink"
+}, {
+  "id": 8,
+  "name": "Macaque, bonnet",
+  "catogory": "Mauv"
+}, {
+  "id": 9,
+  "name": "Otter, brazilian",
+  "catogory": "Crimson"
+}, {
+  "id": 10,
+  "name": "Eastern diamondback rattlesnake",
+  "catogory": "Red"
+}, {
+  "id": 11,
+  "name": "Fox, blue",
+  "catogory": "Yellow"
+}, {
+  "id": 12,
+  "name": "Lynx, african",
+  "catogory": "Indigo"
+}, {
+  "id": 13,
+  "name": "Coqui partridge",
+  "catogory": "Aquamarine"
+}, {
+  "id": 14,
+  "name": "Monkey, vervet",
+  "catogory": "Crimson"
+}, {
+  "id": 15,
+  "name": "Rattlesnake, eastern diamondback",
+  "catogory": "Blue"
+}, {
+  "id": 16,
+  "name": "Red-billed toucan",
+  "catogory": "Aquamarine"
+}, {
+  "id": 17,
+  "name": "Bird, bare-faced go away",
+  "catogory": "Yellow"
+}, {
+  "id": 18,
+  "name": "African fish eagle",
+  "catogory": "Blue"
+}, {
+  "id": 19,
+  "name": "Hawk-eagle, crowned",
+  "catogory": "Maroon"
+}, {
+  "id": 20,
+  "name": "Tinamou, elegant crested",
+  "catogory": "Fuscia"
+}]}
